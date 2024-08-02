@@ -1,0 +1,6 @@
+.git
+.vs
+.idea
+*.xml
+*.meta
+.gitattributes
